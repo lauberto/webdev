@@ -1,0 +1,45 @@
+body {
+  background-color: #dae1e7;
+}
+
+img {
+  width: 65%;
+}
+
+hr {
+  border-color: #27496d;
+  border-style: dotted none none;
+  border-width: 5px;
+  width: 5%;
+}
+
+h1 {
+  color: #142850;
+  font-family: "Lucida Console", Monaco, monospace;
+}
+
+h3 {
+  color: #00909e;
+  font-family: "Lucida Console", Monaco, monospace;
+}
+
+p {
+  font-family: "Courier New", Courier, monospace;
+}
+
+li {
+  font-family: "Courier New", Courier, monospace;
+}
+
+table {
+  font-family: "Courier New", Courier, monospace;
+}
+
+form {
+  font-family: "Courier New", Courier, monospace;
+}
+
+/************************CLASS SELECTORS************************/
+.flash:hover {
+  background-color: #f08a5d;  
+}
